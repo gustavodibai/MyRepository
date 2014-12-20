@@ -1,4 +1,4 @@
-package com.soon.schoolnotes;
+package com.soon.s;
 
 import java.util.ArrayList;
 import java.util.List;
