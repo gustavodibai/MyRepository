@@ -1,4 +1,4 @@
-package com.soon.schoolnotes.database;
+package com.soon.s.database;
 
 import android.content.Context;
 import android.database.SQLException;
