@@ -1,4 +1,4 @@
-package com.soon.schoolnotes.entity;
+package com.soon.s.entity;
 
 import java.io.Serializable;
 
