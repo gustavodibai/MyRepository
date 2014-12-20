@@ -1,4 +1,4 @@
-package com.soon.schoolnotes;
+package com.soon.s;
 
 import android.app.Activity;
 import android.content.Context;
@@ -54,8 +54,8 @@ public class DetalheMateriaActivity extends Activity {
                 Toast.makeText(getApplicationContext(),
                         "Write a note to add!", Toast.LENGTH_SHORT)
                         .show();
-                 //se você não colocar nada no checkbox
-                //vai dizer para digitar um valor númerico
+                 //se vocÃª nÃ£o colocar nada no checkbox
+                //vai dizer para digitar um valor nÃºmerico
 			} else {
 				float counterAsFloat = Float.parseFloat(counter);
 				
