@@ -1,4 +1,4 @@
-package com.soon.schoolnotes.database;
+package com.soon.s.database;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -31,7 +31,7 @@ public class MateriaDAO {
 		
 		long value = database.insert(TABLE, null, contentValues);//colunas que aceitam o valor null
 		
-		if(value == -1){//se o valor for igual a -1 é porque deu erro nos dados do banco
+		if(value == -1){//se o valor for igual a -1 Ã© porque deu erro nos dados do banco
 			return false;
 		}
 		return true;
