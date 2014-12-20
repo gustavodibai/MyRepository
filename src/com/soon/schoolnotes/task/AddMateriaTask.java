@@ -1,4 +1,4 @@
-package com.soon.schoolnotes.task;
+package com.soon.s.task;
 
 import android.content.Context;
 import android.os.AsyncTask;
